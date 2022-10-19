@@ -4,7 +4,7 @@
 
 ## Temática y descripción del sitio
 
-Proyecto de E-Commerce relacionado a comercializar de comida para llevar. Contando ademas con productos exclusivos y ofertas destacadas.
+Proyecto de E-Commerce destinada a comercializar comida para llevar. Contando ademas con productos exclusivos y ofertas destacadas.
 
 ## Público objetivo
 
@@ -18,11 +18,6 @@ El mismo se descarga, y se clona el repositorio. Luego se colocan los siguientes
 - git init
 - git npm install
 - npm start
-
-
-## Autores
-
-* **Fernanda Checa** - Ing en Sistemas y Programadora Web Full Stack - [fer-checa](https://github.com/fer-checa)
 
 
 ## Tablero 
