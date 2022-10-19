@@ -1,14 +1,14 @@
 # Proyecto
 
-" APP Movies HD "
+" Don Remolo Pizzeria "
 
 ## Temática y descripción del sitio
 
-Proyecto de E-Commerce relacionado a comercializar paquetes de peliculas. Contando ademas con productos exclusivos, ofertas destacadas y consejos utiles.
+Proyecto de E-Commerce relacionado a comercializar de comida para llevar. Contando ademas con productos exclusivos y ofertas destacadas.
 
 ## Público objetivo
 
-Se apunta a un tipo de publico especialmente amantes de las peliculas y apacionados por las series, que ocupen su tiempo libre para disfrutarlas.
+Se apunta a todo tipo de publico, que quiera comida rica, y rapida. Para compartir con amigos, familia o vecinos. 
 
 ## Instrucciones para inicializar el proyecto
 
@@ -22,7 +22,7 @@ El mismo se descarga, y se clona el repositorio. Luego se colocan los siguientes
 
 ## Autores
 
-* **Fernanda Checa** - Ing en Sistemas y Programadora Web Full Stack. Me encanta la reposteria y amo nadar. Me apasionan los desafios y las cosas nuevas, soy una persona resiliente y perseverante. - [fer-checa](https://github.com/fer-checa)
+* **Fernanda Checa** - Ing en Sistemas y Programadora Web Full Stack - [fer-checa](https://github.com/fer-checa)
 
 
 ## Tablero 
