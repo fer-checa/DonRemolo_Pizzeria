@@ -1,0 +1,22 @@
+{
+  "name": "donremolo_pizzeria",
+  "version": "1.0.0",
+  "description": "\" APP Movies HD \"",
+  "main": "app.js",
+  	"scripts": { "start": "nodemon app.js"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fer-checa/DonRemolo_Pizzeria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fer-checa/DonRemolo_Pizzeria/issues"
+  },
+  "homepage": "https://github.com/fer-checa/DonRemolo_Pizzeria#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}

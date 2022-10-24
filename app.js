@@ -1,11 +1,9 @@
 const express = require("express");
 const app = express();
+const path = require("path"); // Aqui tenemos el modulo nativo para manejar las rutas de los archivos
 
-// Aqui tenemos el modulo nativo para manejar las rutas de los archivos
-const path = require("path");
 
-// En esta parte usamos recursos estáticos.
-app.use(express.static("public"));
+app.use(express.static("public")); // En esta parte usamos recursos estáticos.
 
 const publicFolderPath = path.resolve(__dirname ,'./public');
 app.use( express.static(publicFolderPath) );
