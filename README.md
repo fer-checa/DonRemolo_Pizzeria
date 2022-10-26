@@ -1,10 +1,10 @@
 # Proyecto
 
-" APP Movies HD "
+" Pizzeria Don Remolo "
 
 ## Temática y descripción del sitio
 
-Proyecto de E-Commerce relacionado a comercializar paquetes de peliculas. Contando ademas con productos exclusivos, ofertas destacadas y consejos utiles.
+Proyecto de una Pizzeria de barrio, pero online, para tener al alcance de un solo click, productos frescos y de primera calidad. Productos para disfrutar en familia, con amigos, vecinos, etc. 
 
 ## Público objetivo
 
@@ -22,12 +22,12 @@ El mismo se descarga, y se clona el repositorio. Luego se colocan los siguientes
 
 ## Autores
 
-* **Fernanda Checa** - Ing en Sistemas y Programadora Web Full Stack. Me encanta la reposteria y amo nadar. Me apasionan los desafios y las cosas nuevas, soy una persona resiliente y perseverante. - [fer-checa](https://github.com/fer-checa)
+* **Fernanda Checa** - Ing en Sistemas y Programadora Web Full Stack.- [fer-checa](https://github.com/fer-checa)
 
 
 ## Tablero 
 
-* [Tablero de Trello]
+* [Tablero de Trello] (https://trello.com/b/sxp3oylD/proyecto-pizzeria-don-remolo)
 
 ## Wireframes
 
