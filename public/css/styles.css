@@ -130,7 +130,7 @@ body {
 .descripciones {
     font-size: 16px;
     text-align: left;
-    color: var(--Gris-oscuro);
+    color: black;
     display: none;
     
 }
