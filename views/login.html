@@ -72,25 +72,25 @@
 
     <!-- Aqui ira el main -->
     <main class="main">
-        
-        
-    <section class="section-producto" style="text-align: center">
-        <form action="/action_page.php" >
-            <div class="form-group">
-              <label for="email">Email address:</label>
-              <input type="email" class="form-control" id="email">
+        <!-- FORMULARIO PARA EL LOGUIN -->
+
+        <form action="/login" method="post">
+                
+            <div>
+                <label for="nombre-usuario"></label>
+                <input type="text" id="nombre-usuario" name="nombre-usuario" class="input" placeholder="Nombre de Usuari@">
             </div>
-            <div class="form-group">
-              <label for="pwd">Password:</label>
-              <input type="password" class="form-control" id="pwd">
+
+            
+            <div>
+                <label for="password"></label>
+                <input type="password" id="password" name="password" class="input" placeholder="Contraseña">
             </div>
-            <div class="checkbox">
-              <label><input type="checkbox"> Remember me</label>
-            </div>
-            <button type="submit" class="btn btn-default">Submit</button>
-          </form>
-        
-    </section >
+
+            
+            <button type="submit" class="enviar-login">Enviar</button>
+            
+        </form>
 
     </main>
 
